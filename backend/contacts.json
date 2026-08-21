@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1",
+    "name": "Rahul Sharma",
+    "email": "rahul@techcorp.in",
+    "phone": "9876543210",
+    "company": "TechCorp India",
+    "status": "Active",
+    "createdAt": "2026-06-01T10:00:00.000Z",
+    "notes": [
+      {
+        "date": "2026-06-01",
+        "text": "Initial call. Interested in enterprise plan, wants pricing for 50 seats."
+      },
+      {
+        "date": "2026-06-10",
+        "text": "Sent proposal. Asked for a demo of the reporting dashboard."
+      },
+      {
+        "date": "2026-06-18",
+        "text": "Demo went well. Requested a follow-up with their procurement team."
+      }
+    ],
+    "aiSummary": "Rahul Sharma (TechCorp India) is currently marked as \"Active\". 3 interaction(s) logged — most recent on 2026-06-18: \"Demo went well. Requested a follow-up with their procurement team.\""
+  },
+  {
+    "id": "2",
+    "name": "Priya Mehta",
+    "email": "priya@startup.io",
+    "phone": "9123456780",
+    "company": "StartupIO",
+    "status": "Lead",
+    "createdAt": "2026-06-02T11:00:00.000Z",
+    "notes": [
+      {
+        "date": "2026-06-02",
+        "text": "Inbound inquiry via website contact form. Early-stage evaluation, no budget confirmed yet."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Arjun Patel",
+    "email": "arjun@globalb2b.com",
+    "phone": "9988776655",
+    "company": "GlobalB2B",
+    "status": "Closed",
+    "createdAt": "2026-06-03T09:00:00.000Z",
+    "notes": [
+      {
+        "date": "2026-06-03",
+        "text": "Signed annual contract for 20 seats."
+      },
+      {
+        "date": "2026-06-05",
+        "text": "Onboarding completed successfully."
+      }
+    ]
+  }
+]
